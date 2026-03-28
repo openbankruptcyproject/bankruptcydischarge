@@ -1,0 +1,19 @@
+# bankruptcydischarge.com
+
+> The bankruptcy discharge is the court order that eliminates your personal liability for certain debts. Learn what it covers, when it happens, and how it differs from dismissal.
+
+## About
+
+bankruptcydischarge.com explains the bankruptcy discharge, the court order that eliminates a debtor's personal liability for qualifying debts. The site covers what a discharge means legally, which debts are dischargeable versus nondischargeable, discharge timing by chapter, the difference between discharge and dismissal, and what happens after receiving a discharge. Written in plain English for consumers.
+
+## Key Pages
+
+- [Home](https://bankruptcydischarge.com/): Complete guide to the bankruptcy discharge -- what it covers, timing, dischargeable debts, and discharge vs. dismissal
+
+## Network
+
+Part of the Open Bankruptcy Project (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "bankruptcydischarge.com, Open Bankruptcy Project (2026)."
